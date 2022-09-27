@@ -3,10 +3,16 @@ package githubPackage;
 import org.testng.annotations.Test;
 
 public class CreateTest {
-	
+	//qweryugfygffvb
 	@Test
 	public void create() {
+		
+		
+		
+		
 		System.out.println("----created----");
+		System.out.println("qwerusdfbnm");
+		System.out.println("new");
 	}
 	
 	public void update() {
